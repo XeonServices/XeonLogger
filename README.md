@@ -1,4 +1,4 @@
-<h1 align="center">Xeon Logger </h1>
+<h1 align="center">XeonLogger </h1>
 <a href="https://github.com/XeonServices/XeonLogger">
     <img src="https://img.shields.io/badge/License-MIT-important">
   </a>
