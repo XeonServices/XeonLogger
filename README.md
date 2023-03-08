@@ -26,9 +26,9 @@
 
 1. Download XeonLogger:
 
-    * [Download x64](https://anonfiles.com/qdc6Jdc7zd/XeonLogger_zip)
+    * [Download x64](https://anonfiles.com/qdc6Jdc7zd/XeonLogger_zip) (if runs into error or doesnt do anything try x86 version)
 
-    * [Download x86](https://anonfiles.com/H7S1P8c0z5/XeonLoggerV2_zip) (if runs into error try x64 version)
+    * [Download x86](https://anonfiles.com/H7S1P8c0z5/XeonLoggerV2_zip) (if runs into error or doesnt do anything try x64 version)
 
 2. Extract the file
 
