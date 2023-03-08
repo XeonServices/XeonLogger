@@ -13,10 +13,6 @@
   </a>
 </p>
 
-```
-lunch the Discord Token Login.exe File 😉
-```
-
 ## Preview  <img src="https://cdn3.emoji.gg/emojis/1676-cameracat.png" width="30px"/>
 </h1>
 
